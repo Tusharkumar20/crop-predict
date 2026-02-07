@@ -1,0 +1,7 @@
+{
+  "name": "AgroPredict AI - Machine Learning Crop Yield Hub",
+  "description": "An end-to-end crop yield prediction platform demonstrating the full machine learning lifecycle, from data analysis (EDA) to multi-model training and AI-powered inference.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

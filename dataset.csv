@@ -1,0 +1,9 @@
+
+Crop,Season,State,Area,Rainfall,Temperature,pH,N,P,K,Yield
+Rice,Kharif,Punjab,250,1200,28,6.5,80,40,40,4.52
+Wheat,Rabi,Haryana,180,450,18,7.2,120,60,50,3.81
+Maize,Summer,Karnataka,120,800,32,6.1,90,45,35,2.94
+Cotton,Kharif,Maharashtra,400,950,35,7.8,60,30,40,2.15
+Sugarcane,Whole Year,UP,500,1500,26,7.0,150,80,90,7.22
+Rice,Kharif,Tamil Nadu,300,1800,30,6.8,85,45,45,5.12
+... (simulated rest of 1000 rows in app.py)
